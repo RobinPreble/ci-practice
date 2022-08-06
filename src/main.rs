@@ -1,6 +1,6 @@
 fn main() {
     println!("Hello World!");
-}
+} 
 
 fn return_word(word: &str) -> &str {
     word
