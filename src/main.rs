@@ -15,7 +15,7 @@ mod test {
 
     #[test]
     fn tests () {
-        assert_eq!(return_word("greg"), "greg")
+        assert_eq!(return_upper("greg"), "greg")
     }
 
 }
